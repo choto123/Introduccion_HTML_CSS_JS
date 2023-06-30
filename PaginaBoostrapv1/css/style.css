@@ -1,0 +1,6 @@
+.table{
+    font-size: 4.89rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
